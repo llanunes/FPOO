@@ -39,7 +39,7 @@ para expressões logicas: unir dois testes lógicos
 	* Ou [or]   ->  || [pipe]
 	* Não [Not] ->  !
 
-E [and] => conjunção
+E [and] => conjunção. Numa lógica E, somente quandos todas as entradas forem verdadeiras é qu a saída vai ser verdadeira.
 
 
 
