@@ -17,8 +17,7 @@
 
 
 
-inicio
-
+* inicio
 * entrada manual= idade
 * decisão= idade>17
 * saída= 
@@ -33,3 +32,16 @@ Estrutura composta:
 	
 Estrutura simples:
   * if= quando o teste lógico for verdadeiro.
+
+
+idade:
+
+1 ... 120
+
+  * teste lógico para o limite inferior
+
+idade > 0
+
+  * teste lógico para o limite superior
+
+idade < 120
