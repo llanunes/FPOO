@@ -30,7 +30,9 @@ Estrutura simples:
   * if= quando o teste lógico for verdadeiro.
 
 para expressões logicas: unir dois testes lógicos
+
 => Operadores lógicos
+
 	* E [and]  & 
 	* Ou [or]  || [pipe]
 --------------------------------------------------------------------------------------------------
