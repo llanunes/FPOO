@@ -38,6 +38,9 @@ para expressões logicas: unir dois testes lógicos
 	* E [and]  & 
 	* Ou [or]  || [pipe]
 
+E [and] => conjunção
+eu e você
+
 --------------------------------------------------------------------------------------------------
 idade:
 
