@@ -20,4 +20,8 @@
 inicio
 
 * entrada manual= idade
-* 
+* decisão= idade>17
+* saída= 
+==> "menor de idade"
+==> "maior de idade"
+* fim
