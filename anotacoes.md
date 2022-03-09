@@ -1,7 +1,9 @@
 # Estrutura de decisão 
  [Desvio condicional]
 
-
+=> Simples
+=> Composta
+=>
 
 
 
