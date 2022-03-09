@@ -25,3 +25,6 @@ inicio
 ==> "menor de idade"
 ==> "maior de idade"
 * fim
+
+if= quando o teste lógico for verdadeiro.
+else= quando o teste lógico for falso.
