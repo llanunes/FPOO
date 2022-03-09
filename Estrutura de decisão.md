@@ -14,7 +14,7 @@
 * git push 
 --------------------------------------------------------------------------------------------------
 
-
+--------------------------------------------------------------------------------------------------
 * inicio
 * entrada manual= idade
 * decisão= idade>17
@@ -22,8 +22,9 @@
 ==> "menor de idade"
 ==> "maior de idade"
 * fim
+--------------------------------------------------------------------------------------------------
 
-
+------------------------------------------------
 Estrutura composta:
   * if= quando o teste lógico for verdadeiro.
   * else= quando o teste lógico for falso.
@@ -31,6 +32,11 @@ Estrutura composta:
 Estrutura simples:
   * if= quando o teste lógico for verdadeiro.
 
+para expressões logicas: unir dois testes lógicos
+=> Operadores lógicos
+  * E [and]  & 
+  * Ou [or]  || [pipe]
+--------------------------------------------------------------------------------------------------
 
 idade:
 
