@@ -31,6 +31,8 @@ Estrutura simples:
 
 para expressões logicas: unir dois testes lógicos
 
+--------------------------------------------------------
+
 => Operadores lógicos
 
 	* E [and]  & 
