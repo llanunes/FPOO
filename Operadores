@@ -1,10 +1,10 @@
-==> Operadores aritmeticos 
+#Operadores aritmeticos 
   * *
   * +
   * -
   * /
 
-==> Operadores reelacionais [Comparação]
+## Operadores reelacionais [Comparação]
   * >    maior que
   * <    menor que
   * >=   maior ou igual a
