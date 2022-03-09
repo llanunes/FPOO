@@ -5,9 +5,6 @@
 => Composta (Se verdadeiro, exibe algo, se não, exibe outra coisa).
 => Aninhada/encadeada (Uma estrutura de decisão com outras decisões dentro).
 
-
-
-
 --------------------------------------------------------------------------------------------------
 * git add . 
 * git commit -m "qualquer coisa"
@@ -37,7 +34,7 @@ para expressões logicas: unir dois testes lógicos
   * E [and]  & 
   * Ou [or]  || [pipe]
 --------------------------------------------------------------------------------------------------
-
+--------------------------------------------------------------------------------------------------
 idade:
 
 1 ... 120
@@ -49,3 +46,4 @@ idade > 0
   * teste lógico para o limite superior
 
 idade < 120
+---------------------------------------------------------------------------------------------------
