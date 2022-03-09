@@ -9,6 +9,6 @@
 
 
 
-*git add . 
-*git commit -m "qualquer coisa"
-*git push
+* git add . 
+* git commit -m "qualquer coisa"
+* git push 
