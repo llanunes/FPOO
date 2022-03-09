@@ -1,5 +1,5 @@
-Estrutura de decisão 
-[Desvio condicional]
+*Estrutura de decisão 
+*[Desvio condicional]
 
 
 
@@ -9,6 +9,6 @@ Estrutura de decisão
 
 
 
-git add .
-git commit -m "qualquer coisa"
-git push
+*git add . 
+*git commit -m "qualquer coisa"
+*git push
