@@ -35,9 +35,9 @@ para expressões logicas: unir dois testes lógicos
 
 => Operadores lógicos
 
-	* E [and]   -- & 
-	* Ou [or]   -- || [pipe]
-	* Não [Not] -- !
+	* E [and]   ->  & 
+	* Ou [or]   ->  || [pipe]
+	* Não [Not] ->  !
 
 E [and] => conjunção
 
