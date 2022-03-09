@@ -39,7 +39,9 @@ para expressões logicas: unir dois testes lógicos
 	* Ou [or]   ->  || [pipe]
 	* Não [Not] ->  !
 
-E [and] => conjunção. Numa lógica E, somente quandos todas as entradas forem verdadeiras é qu a saída vai ser verdadeira.
+E [and]    => Numa lógica E, somente quandos todas as entradas forem verdadeiras/acionadas é que a saída vai ser verdadeira/acionadas.
+Ou [or]    => Numa lógica Ou, se UMA ou MAIS entradas for verdadeira/acionada, a saída será verdadeira/acionada.
+Não [not]  =>
 
 
 
@@ -57,3 +59,4 @@ idade > 0
 idade < 120
 
 ---------------------------------------------------------------------------------------------------
+
