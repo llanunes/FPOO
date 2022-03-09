@@ -8,13 +8,11 @@
 
 
 
-
-
-
+{
 * git add . 
 * git commit -m "qualquer coisa"
 * git push 
-
+}
 
 
 * inicio
