@@ -26,5 +26,10 @@ inicio
 ==> "maior de idade"
 * fim
 
-if= quando o teste lógico for verdadeiro.
-else= quando o teste lógico for falso.
+
+Estrutura composta:
+  * if= quando o teste lógico for verdadeiro.
+  * else= quando o teste lógico for falso.
+	
+Estrutura simples:
+  * if= quando o teste lógico for verdadeiro.
