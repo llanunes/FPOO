@@ -7,9 +7,9 @@
 
 ## Operadores reelacionais [Comparação]
 
-  * >    maior que
-  * <    menor que
-  * >=   maior ou igual a
-  * <=   menor ou igual a
-  * ==   igualdade
-  * !=   desigualdade [diferença]
+  * ">"    maior que
+  * "<"    menor que
+  * ">="   maior ou igual a
+  * "<="   menor ou igual a
+  * "=="   igualdade
+  * "!="   desigualdade [diferença]
