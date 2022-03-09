@@ -1,9 +1,9 @@
 # Estrutura de decisão 
  [Desvio condicional]
 
-=> Simples
-=> Composta
-=> Aninhada
+=> Simples (Se verdadeiro, exibe algo, se não, não exibe nada).
+=> Composta (Se verdadeiro, exibe algo, se não, exibe outra coisa).
+=> Aninhada/encadeada (Uma estrutura de decisão com outras decisões dentro).
 
 
 
@@ -14,3 +14,10 @@
 * git add . 
 * git commit -m "qualquer coisa"
 * git push 
+
+
+
+inicio
+
+* entrada manual= idade
+* 
