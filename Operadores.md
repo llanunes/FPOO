@@ -38,4 +38,33 @@ byte [8 bits]
   
   * float   => 32 bits
   * double  => 64 bits
-  * 
+  
+  -------------------------------------
+  
+  ### Estrutura de repetição
+  
+  Laços/loop
+  
+  ==> Java
+  
+  for 
+  while
+  do while
+  
+  ------------------------------------------------------------------------------
+  
+  Laço [for]
+   -> é mais adequado utilizar o laço for, quando sabemos antecipadamente a quantidade de repetições.
+   
+   Síntaxe:
+   
+   
+      for ( ; ; ) {
+      }
+                 
+      
+      ( inicialização ; teste ; atualização ) {
+      }
+
+       2, 4, 6, 8,
+       PA: Inicio, final, razão
