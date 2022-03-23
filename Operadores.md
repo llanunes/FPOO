@@ -72,3 +72,12 @@ byte [8 bits]
        * Inicialização : Determina o inicio da contagem.
        * Teste: Determina o final da contagem.
        * Atualização: Determina o passo [razão] da contagem.
+       
+  # Exemplo  
+  
+   1, 4, 7, 10, 13
+   
+   for ( int i=1 ; i <=13 ; i=i+3 ) {
+    System.out.println (i);
+   }
+  
