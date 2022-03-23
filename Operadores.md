@@ -73,11 +73,11 @@ byte [8 bits]
        * Teste: Determina o final da contagem.
        * Atualização: Determina o passo [razão] da contagem.
        
-  # Exemplo  
+  ### Exemplo  
   
-   1, 4, 7, 10, 13
+     1, 4, 7, 10, 13
    
-   for ( int i=1 ; i <=13 ; i=i+3 ) {
-    System.out.println (i);
-   }
+     for ( int i=1 ; i <=13 ; i=i+3 ) {
+      System.out.println (i);
+     }
   
