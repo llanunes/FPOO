@@ -53,7 +53,7 @@ byte [8 bits]
   
   ------------------------------------------------------------------------------
   
-  Laço [for]
+ # Laço [for]
    -> é mais adequado utilizar o laço for, quando sabemos antecipadamente a quantidade de repetições.
    
    Síntaxe:
