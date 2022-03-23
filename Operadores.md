@@ -68,3 +68,7 @@ byte [8 bits]
 
        2, 4, 6, 8,
        PA: Inicio, final, razão
+       
+       * Inicialização : Determina o inicio da contagem.
+       * Teste: Determina o final da contagem.
+       * Atualização: Determina o passo [razão] da contagem.
