@@ -36,5 +36,6 @@ byte [8 bits]
 
  Números decimais:
   
-  *float
-  *double
+  * float   => 32 bits
+  * double  => 64 bits
+  * 
