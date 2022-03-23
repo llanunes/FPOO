@@ -23,10 +23,18 @@ Espaço reservado [alocado] na memória RAM para guardar uma informação de um 
 
 
   Números inteiros:
-  * byte    => 8 bits
+  * byte    => 8 bits (vai do -128 ate o 127)
   * short   => 16 bits
   * int     => 32 bits
   * long    => 64 bits
 
-menor unidade de informação
+byte [8 bits]
+2^8 = 256 / 2 = 128
+
+0 ... 255
+-128 ... 0 ... 127
+
+ Números decimais:
   
+  *float
+  *double
