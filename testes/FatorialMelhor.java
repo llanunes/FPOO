@@ -4,12 +4,11 @@ class FatorialMelhor{
     public static void main (final String[] args) {
         final Scanner sc = new Scanner(System.in);
 
-        while (true) {
+        while (true){
             while (true) {
                 System.out.println("Informe um numero positivo: ");
                 final long n = sc.nextInt();
                 long fat = n;
-               
     
             if (n==0){
                 System.out.println ("0! = 1");
@@ -26,6 +25,7 @@ class FatorialMelhor{
             }
         }    
     }
-    
 }
+            
+
         
