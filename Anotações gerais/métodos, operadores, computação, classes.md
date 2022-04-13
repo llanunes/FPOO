@@ -104,9 +104,13 @@ não fazem duas coisas, serve para fazer uma coisa só.
      next ()
  ...
  
-* if ( ) for ( ) while ( ) [tem parenteses mas não são métodos, são estruturas de decisão ( if ); estruturas de repetição ( for; while; )]
+* if ( ) for ( ) while ( ) [tem parenteses mas não são métodos, são estruturas de decisão ( if ); estruturas de repetição ( for; while; ) ]
 
- criar nossos métodos: 
+  # criar nossos métodos: 
+  
+  * ex: public static void main ( )
+  
+  modificador:  public `modificador de acesso [visibidade]`
 
 
 
