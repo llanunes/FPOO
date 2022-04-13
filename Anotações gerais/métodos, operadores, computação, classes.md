@@ -113,10 +113,10 @@ não fazem duas coisas, serve para fazer uma coisa só.
   modificador:  public `modificador de acesso [visibidade]`
   
   ### outros modificadores:
-  * public (método que todos podem acessar, método publico)
-  * private (método privado, restrito, oculto, método não disponível para todos, somenta para alguns)
-  * default (método padrão, quando não há modificador de acesso ele se torna default)
-  * protected (método protegido)
+ * public (método que todos podem acessar, método publico)
+ * private (método privado, restrito, oculto, método não disponível para todos, somenta para alguns)
+ * default (método padrão, quando não há modificador de acesso ele se torna default)
+ * protected (método protegido)
   
 
 
