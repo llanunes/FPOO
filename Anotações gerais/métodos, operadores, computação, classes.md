@@ -119,12 +119,14 @@ não fazem duas coisas, serve para fazer uma coisa só.
      * protected (método protegido)
      * static (modificador especial, estático)
 
-### tipo de retorno
-    
-   * void
-   * int
-   * double
-   * objeto (classe)
+    ### tipo de retorno
+
+     * void [vazio]
+     * int
+     * double
+     * objeto (classe)
+
+    método quando não retorna nada, é do tipo `void`. Como exemplo: String, que exibe um texto mas não armazena algo.
 
 
 
