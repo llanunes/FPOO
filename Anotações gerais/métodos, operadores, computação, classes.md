@@ -1,16 +1,16 @@
 
-##Java
+# Java
 
 Métodos: faz uma única coisa específica.
-==> pow (potência)
-==> sqrt (radiciação)
-==> sin (seno)
-==> cos (cosceno)
-==> tan (tangente)
+* pow (potência)
+* sqrt (radiciação)
+* sin (seno)
+* cos (cosceno)
+* tan (tangente)
 
 Toda linguagem de programação trabalha com operadores.
 
-==> Aritiméticos ou operadores matemáticos.
+## Aritiméticos ou operadores matemáticos.
 + soma
 - subtração
 * multiplicação
@@ -36,13 +36,13 @@ int n4= 1
 padrão para nomes compostos do java
 * Camel case: RestoDaDivisao (nome da classe que é o mesmo nome do arquivo criado).
 
-##Computação
+## Computação
 
 Saída em Java: System.out.println
 Processamento: variáveis, operadores, etc
 Entrada: Interação com o usuario, ele determinará os valores que serão guardados e posteriormente processados. Gráfica/Texto
 
-==> Classes: 
+### Classes: 
 
 [métodos]  não disponíveis 
 por padrão
@@ -78,19 +78,21 @@ método de entrada.
 
 
 
-Variável para números:
+# Variável para números:
 
-*primitivas/básicas que ja nasceram com a linguagem.
+* primitivas/básicas que ja nasceram com a linguagem.
 
-==> int (números inteiros)
-==> double (números decimais)
+* int (números inteiros)
+* double (números decimais)
 
 
-Variável para texto:
+## Variável para texto:
+
+* String
 
 são classes, foram desenvolvidas e introduzidas depois.
 
-==> String 
+
 
 
 
