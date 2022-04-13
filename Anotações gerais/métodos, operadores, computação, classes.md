@@ -123,54 +123,10 @@ tem métodos que recebem argumentos e outros não. Há métodos que retornam alg
 
    ### tipo de retorno
 
-     * void [vazio]
-     * int
-     * double
-     * objeto (classe)
+   * void [vazio]
+   * int
+   * double
+   * objeto (classe)
 
-    método quando não retorna nada, é do tipo `void`. Como exemplo: String, que exibe um texto mas não armazena algo. Metodo `main` é do tipo `void`, pois retorna um void.
+   método quando não retorna nada, é do tipo `void`. Como exemplo: String, que exibe um texto mas não armazena algo. Metodo `main` é do tipo `void`, pois retorna um void.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
