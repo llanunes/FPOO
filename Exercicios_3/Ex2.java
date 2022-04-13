@@ -5,7 +5,7 @@ class Ex2{
         Scanner sc = new Scanner (System.in);
 
         String usuarioCad = "Larissa";
-        String senhaCad = "123456789";
+        String senhaCad = "123456";
         int rep=1;
 
         while (rep < 4){

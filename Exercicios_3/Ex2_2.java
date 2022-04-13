@@ -20,7 +20,7 @@ class Ex2_2{
                     System.exit(0);
                 } 
                 else {
-                    System.out.println("Senha ou usuario incorreto");
+                    System.out.println("Dados incorretos");
                     rep ++;
                     break;    
                 }
