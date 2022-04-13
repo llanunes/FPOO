@@ -139,11 +139,13 @@ criando método com decimais:
    * static (não obrigatório).
    * especificamos o tipo de retorno.
    * nome do método.
-    * no argumento colocamos primeiro o tipo do argumento que está sendo recebido e depois o noome de uma variável que vai guardar aquele argumento.
+   * no argumento colocamos primeiro o tipo do argumento que está sendo recebido e depois o noome de uma variável que vai guardar aquele argumento.
 
     public static double somar(double n1, double n2){
         double soma = n1 + n2;
+        return soma; ou return(n1 + n2);
     }
+    return usamos quando precisamos retornar algo, só não usaremos quando for do tipo void.
 
    
 
