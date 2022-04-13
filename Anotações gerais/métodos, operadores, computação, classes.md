@@ -129,4 +129,13 @@ tem métodos que recebem argumentos e outros não. Há métodos que retornam alg
    * objeto (classe)
 
    método quando não retorna nada, é do tipo `void`. Como exemplo: String, que exibe um texto mas não armazena algo. Metodo `main` é do tipo `void`, pois retorna um void.
+   
+criando método com decimais:
+   
+   * primeiro colocamos a visibilidade.
+   * static (não obrigatório).
+   * especificamos o tipo de retorno.
+   * nome do método.
+
+public static double somar(double)
 
