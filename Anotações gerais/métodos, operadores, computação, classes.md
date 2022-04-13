@@ -130,6 +130,9 @@ tem métodos que recebem argumentos e outros não. Há métodos que retornam alg
 
    método quando não retorna nada, é do tipo `void`. Como exemplo: String, que exibe um texto mas não armazena algo. Metodo `main` é do tipo `void`, pois retorna um void.
    
+   public static void main (String args []) 
+   		* vetor []
+   
 criando método com decimais:
    
    * primeiro colocamos a visibilidade.
@@ -137,7 +140,7 @@ criando método com decimais:
    * especificamos o tipo de retorno.
    * nome do método.
 
-        public static double somar(double n1) 
+    public static double somar(double n1) 
 
    * no argumento colocamos primeiro o tipo do argumento que está sendo recebido e depois o noome de uma variável que vai guardar aquele argumento.
 
