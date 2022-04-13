@@ -137,5 +137,7 @@ criando método com decimais:
    * especificamos o tipo de retorno.
    * nome do método.
 
-public static double somar(double)
+        public static double somar(double n1) 
+
+   * no argumento colocamos primeiro o tipo do argumento que está sendo recebido e depois o noome de uma variável que vai guardar aquele argumento.
 
