@@ -108,25 +108,27 @@ não fazem duas coisas, serve para fazer uma coisa só.
 
   # criar nossos métodos: 
   
-  * ex: public static void main ( )
+  * ex: public static void main ( ) --- (argumento)
+                                                
+tem métodos que recebem argumentos e outros não. Há métodos que retornam alguma coisa e outros não.
   
   modificador:  public `modificador de acesso [visibidade]`
   
   ### outros modificadores:
-     * public (método que todos podem acessar, método publico)
-     * private (método privado, restrito, oculto, método não disponível para todos, somenta para alguns)
-     * default (método padrão, quando não há modificador de acesso ele se torna default)
-     * protected (método protegido)
-     * static (modificador especial, estático)
+   * public (método que todos podem acessar, método publico)
+   * private (método privado, restrito, oculto, método não disponível para todos, somenta para alguns)
+   * default (método padrão, quando não há modificador de acesso ele se torna default)
+   * protected (método protegido)
+   * static (modificador especial, estático)
 
-    ### tipo de retorno
+   ### tipo de retorno
 
      * void [vazio]
      * int
      * double
      * objeto (classe)
 
-    método quando não retorna nada, é do tipo `void`. Como exemplo: String, que exibe um texto mas não armazena algo.
+    método quando não retorna nada, é do tipo `void`. Como exemplo: String, que exibe um texto mas não armazena algo. Metodo `main` é do tipo `void`, pois retorna um void.
 
 
 
