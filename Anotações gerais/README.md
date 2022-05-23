@@ -2,7 +2,7 @@
 
 ## Java: linguagem de programação orientada a objeto.
 
- * Classes: `Uma classe é um elemento que utilizamos para representar objetos do mundo real. Dentro dela é comum declararmos atributos e métodos, que representam, respectivamente, as características e comportamentos desse objeto. Representa a estrutura em si` 
+ * Classes: `Uma classe é um elemento que utilizamos para representar objetos do mundo real. Dentro dela é comum declararmos atributos  e métodos, que representam,  respectivamente, as características e comportamentos desse objeto. Representa a estrutura em si.` 
  
 
  * Atributos: `Características. Os atributos são os dados que um classe possui. Uma entidade que possui estado e comportamento é conhecida como um objeto, por exemplo, cadeira, bicicleta, marcador, caneta, mesa, carro, etc.`
