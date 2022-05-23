@@ -9,3 +9,8 @@
  
 
 * Métodos: `São as ações. Em geral, um método é uma maneira de executar alguma tarefa. Da mesma forma, o método em Java é uma coleção de instruções que executam uma tarefa específica. Ele fornece a reutilização do código.`
+
+
+Métodos de set: `dá o valor do atributo.`
+
+Método de get: `pega o valor do atributo.`
